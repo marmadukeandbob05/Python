@@ -11,7 +11,7 @@ This will enable the program to write to the database.
 
 # Easy Email Module
 Use the function
-'''python
+```python
 send_gmail(youremail, yourpassword, to, subject, body, database)
-'''
+```
 
