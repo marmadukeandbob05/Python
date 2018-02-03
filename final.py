@@ -291,7 +291,6 @@ def helpuser():
 # defining home page
 master = Tk()
 
-master.iconbitmap('program_icon.ico')
 master.geometry("410x280")
 master.configure(background="#ff4f30")
 master.title("Emailer : Log In | Sign Up")
