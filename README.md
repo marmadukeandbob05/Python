@@ -5,10 +5,10 @@ A collection of python related things.
 Replace the firebase url with the url of your realtime database hosted with firebase.
 
 Change the 'Rules' to the following :
-"""Python
+```Python
     ".read": true,
     ".write": true
-"""
+```
 This will enable the program to write to the database.
 
 # Easy Email Module
