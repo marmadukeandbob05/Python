@@ -16,7 +16,7 @@ To send an email using gmail in python, use the ```send_gmail(youremail, yourpas
 
 ## For Example
 ```
-send_gmail("johndoe@gmail.com", "password123", "email@anything.com", "This is a subject", "Hello friend, I sent this email with the easy-email module from python", "https://your-database.firebaseio.com/")
+send_gmail("johndoe@gmail.com", "password123", "email@anything.com", "This is a subject", "Hello friend", "https://your-database.firebaseio.com/")
 ```
 
 # Installation
